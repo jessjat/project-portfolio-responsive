@@ -25,7 +25,7 @@ p{
 
     font-weight: normal;
     font-size: 16px;
-    line-height: 1.5; 
+    line-height: 30px; 
 }
 .hero{
   background:var(--secondary-color); 
