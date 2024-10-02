@@ -23,7 +23,6 @@ h2{
     text-align: center;
 }
 p{
-
     font-weight: normal;
     font-size: 16px;
     line-height: 30px; 
@@ -34,7 +33,7 @@ p{
   padding: 160px 20px;
 }
 .hero p{
-    font-size: 36px;
+    font-size: 40px;
     font-weight: bold;
     margin: 0;
     color: #272142;
@@ -46,6 +45,7 @@ p{
     font-size: 24px;
     color: #272142;
     line-height: 1.5;
+    
 }
 .content-container{
     padding: 160px 20px;
@@ -147,7 +147,6 @@ nav li:active a{
 }
 .btn-branding-outline{
     color: var(--branding-color);
-    text-align: center;
     font-size: 18px;
     line-height: 27px; 
     padding: 15px 30px;
