@@ -81,6 +81,36 @@ p{
     line-height: 1.5;
 
 }
+.logo{
+ max-height:40px; 
+
+}
+nav{
+    padding: 20px 0;
+
+}
+nav li{
+    display: inline;
+    list-style: none;
+    line-height: 42px;
+    margin-left: 15px;
+    
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+}
+nav a{
+    text-decoration: none;
+    color: #272142;
+    transition: all 150ms ease-in-out;
+    font-size: 14 px;
+}
+nav a:hover,
+nav li:active a{
+    color: var(--branding-color);
+}
+
 .btn-branding{
     background:var(--branding-color);
     border-radius: 4px;
